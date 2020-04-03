@@ -1,0 +1,16 @@
+{
+	"tokens": [
+		{
+			"id": 1,
+			"consent": { 
+				"url" : "https://.....", 
+				"token" : "aF6ho9jMBHG",   
+				"text": "Ja, ich ...", 
+				"locale": "de"
+				}
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
+}
