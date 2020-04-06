@@ -1,16 +1,18 @@
 {
-	"tokens": [
+	"de": [
 		{
-			"id": "de",
+			"id": 1,
 			"consent": { 
 				"url" : "https://.....", 
 				"token" : "DEaF6ho9jMBHG",   
 				"text": "Ja, ich ...", 
 				"locale": "de"
 				}
-		},
+		}
+	],
+	"en": [
 		{
-			"id": "en",
+			"id": 2,
 			"consent": { 
 				"url" : "https://.....", 
 				"token" : "ENaF6ho9jENHG",   
