@@ -1,7 +1,7 @@
 {
 	"tokens": [
 		{
-			"id": 'de',
+			"id": "de",
 			"consent": { 
 				"url" : "https://.....", 
 				"token" : "DEaF6ho9jMBHG",   
@@ -10,7 +10,7 @@
 				}
 		},
 		{
-			"id": 'en',
+			"id": "en",
 			"consent": { 
 				"url" : "https://.....", 
 				"token" : "ENaF6ho9jENHG",   
